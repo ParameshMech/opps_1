@@ -6,6 +6,7 @@ public class Address {
 	private String city;
 	private String district;
 	private String state;
+	String town;
 	
 	public void setDoorNo(int doorNo) {
 		this.doorNo=doorNo;
